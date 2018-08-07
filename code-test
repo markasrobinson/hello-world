@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="utf-8"/>
+      <link rel="stylesheet" href="styles.css"/>
+      <title>Find a chlamydia test - NHS website</title>
+    </head>
+    <body>
+      <div class="header-container">
+        <img class="nhs-logo" src="nhs-logo.png"/>
+      </div>
+      <div class="main-body">
+        <h1>Find a chlamydia test</h1>
+        <p class="body-copy">This service can help you:</p>
+        <ul>
+          <li>find places to go to for a test</li>
+          <li>get a home test kit (you may have to pay for this)</li>
+        </ul>
+        <a class="green-button" href="URL">Start now</a>
+        <p class="body-copy">This service is for people in England only.</p>
+        <p class="body-copy">Your answers may be used to help improve the NHS website.
+          Read the <a href="URL">NHS.UK privacy policy</a>.</p>
+        <h2>Others ways to get help</h2>
+        <h3>England:</h3>
+        <p class="body-copy">To speak to someone, call the
+          sexual health helpline for advice on 0300 123 7123. Open Monday to Friday, 9am to 8pm.</p>
+        <h3>Scotland:</h3>
+        <ul>
+          <li>use the <a href="URL">Sexual Health Scotland website</a></li>
+          <li>call Sexual Health Scotland on 0800 22 44 88 (open Monday to Friday,
+            8am to 10pm; Saturday and Sunday, 9am to 5pm)</li>
+        </ul>
+        <h3>Wales:</h3>
+        <ul>
+          <li>use the <a href="URL">NHS Direct Wales website</a></li>
+          <li>call NHS Direct Wales on 0845 46 47 (open 24 hours a day, every day)</li>
+        </ul>
+        <h3>Northern Ireland:</h3>
+        <ul>
+          <li>use the <a href="URL">Sexual Health NI website</a></li>
+          <li>call the Family Planning Association sexual health helpline on 0345
+            122 8687 (open Monday to Friday, 9am to 5pm; closed on bank holidays)</li>
+        </ul>
+        <p class="body-copy"><a href="URL">Find out about call charges on GOV.UK</a></p>
+      </div>
+      <div class="footer-container">
+        <div class="footer-logo"></div>
+      </div>
+    </body>
+  </html>
