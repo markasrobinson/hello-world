@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+.header-container {
+  background-color: #005EB8;
+  height: 100px;
+  padding: 30px 100px 0 100px;
+}
+.main-body {
+  background-color: #F0F4F5;
+  padding: 20px 0 20px 300px;
+}
+h1 {
+  font-size: 2.3em;
+}
+h1, h2, h3 {
+  padding: 20px 0 20px 0;
+}
+.intro-line {
+  padding: 20px 0 20px 0;
+  font-size: 1.5em;
+}
+.body-copy {
+  padding: 15px 0 15px 0;
+  width: 500px;
+}
+p {
+  font-size: 18px;
+}
+ul {
+    padding: 10px 0 20px 20px;
+    font-size: 18px;
+    width: 500px;
+}
+.footer-container {
+  height: 50px;
+  padding: 40px;
+  display: flex;
+  background-color: #003087;
+}
+.body-image {
+  margin: 20px 0 0 0;
+}
+.caption {
+  background-color: #FFFFFF;
+  width: 320px;
+  margin: -5px 0 50px 0;
+  border: 5px solid #FFFFFF;
+  height: auto;
+  padding: 2px;
+  font-size: 18px;
+}
+.gp-box{
+  background-color: #FFFFFF;
+  border: 2px solid #003087;
+  width: 500px;
+  border-radius: 5px;
+}
+.gp-box-heading {
+  background-color: #003087;
+  color: #FFFFFF;
+  padding-left: 15px
+}
+.gp-box-bullets {
+  padding: 25px 0 10px 50px;
+}
+.body-copy-gp-box {
+  padding: 20px 0 20px 20px;
+}
+.green-button {
+  margin: 10px 0 10px 0;
+  padding: 15px;
+  width: 150px;
+  background-color: #009639;
+  color: #FFFFFF;
+  display: block;
+  box-sizing: border-box;
+  text-align: center;
+  border-bottom: 2px solid #006747;
+  font-weight: bold;
+  font-size: 1.2em;
+  vertical-align: middle;
+  text-decoration: none;
+  border-radius: 3px;
+}
+a:hover {
+    color: #0072CE;
+}
+.green-button:hover {
+  background-color: #006747;
+  color: #FFFFFF;
+}
+li {
+  padding: 5px 0;
+}
